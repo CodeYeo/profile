@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+15&display=swap');
+
+body {
+  background-color: rgb(209, 228, 210);
+  font-family: "Jersey 15", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+}
+
+p {
+  font-family: "Jersey 15", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+  font-size: 14px;
+  padding: auto;
+}
+
+h1 {
+  color: black;
+  font-family:"Jersey 15", sans-serif;
+  font-size: 50px;
+  line-height: 15px;
+  text-align: center;
+}
+
+h2  {
+  color: saddlebrown;
+  font-size: 25px;
+  text-align: center;
+}
+
+a {
+  color: brown;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+a:hover {
+  color:burlywood;
+
+}
+
+.container {
+  background: none;
+  width: 500px;
+  margin: 20px auto;
+}
+
+.card {
+  background-color: whitesmoke;
+  padding: 30px;
+  border-radius: 50px;
+  text-align: center;
+  margin: 20px auto;
+}
+
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.text-center {
+  text-align: center;
+}
+
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
